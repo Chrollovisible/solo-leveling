@@ -54,7 +54,8 @@ Pilih menu tiap giliran:
 5. Lihat Inventory — pake potion pas HP/MP tipis
 6. Kunjungi Toko — belanja pake Gold hasil grinding
 7. Simpan & Keluar — udahan dulu, lanjut nanti
-Terus push level sampe titel lo jadi Shadow Monarch 
+Terus push level sampe titel lo jadi Shadow Monarch
+
 Isi Folder
 .
 ├── solev.cpp
